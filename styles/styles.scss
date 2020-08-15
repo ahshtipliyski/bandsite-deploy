@@ -41,7 +41,7 @@ html, body {
 
 .hero {
   display: flex;
-  background-image: url("/assets/Images/hero.jpg");
+  background-image: url("../assets/Images/hero.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -49,7 +49,7 @@ html, body {
   height: 11.438rem;
   position: relative;
   &__shows {
-    background-image: url("/assets/Images/hero2.jpg");
+    background-image: url("../assets/Images/hero2.jpg");
     flex-wrap: wrap;
     height: 29.5rem;
     align-content: center;

@@ -72,7 +72,7 @@ html, body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-image: url("/assets/Images/hero.jpg");
+  background-image: url("../assets/Images/hero.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ html, body {
 }
 
 .hero__shows {
-  background-image: url("/assets/Images/hero2.jpg");
+  background-image: url("../assets/Images/hero2.jpg");
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   height: 29.5rem;
